@@ -37,7 +37,7 @@ sensor = BMP085.BMP085()
 #sensor = BMP085.BMP085(mode=BMP085.BMP085_ULTRAHIGHRES)
 
 # Oauth JSON File
-GDOCS_OAUTH_JSON       = 'IOTcloudera-709dafe09ce9.json'
+GDOCS_OAUTH_JSON       = '/home/tc/creds/IOTcloudera-0081d94ed370.json'
 
 # Google Docs spreadsheet name.
 GDOCS_SPREADSHEET_NAME = 'WeatherLog'
