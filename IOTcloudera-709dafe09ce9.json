@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotcloudera",
+  "private_key_id": "709dafe09ce905844390dcecb68a24285dc7c53f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCX3mR1krHaSSy/\n7bYTfCt2YbOYlllg+bB0RD6yodGqJrBY6XNzNulpMsEcJmxF374NrcZOY6gs5fV/\nLx8xdAME6LX3MpbFV6mTRO0K3APJwrHqSi4tHB22n8SFzMQpc9LLn0AEQE4crill\nr5qTWunjGnj1kD863uVxcV3BwcvjJSgc2S3zFyhSRnmYDCbarP2IBgG3JmOGMiSZ\nsPibHvWS5XISrnFdV3/nDy06YGXORpHWG0uLrR0lAxasMSewo9dRXiMMBLu5WJS/\nvFVVMw8gPcRw9uabfCoA7KJn8FoZBHMeg4zNLf1ujZj3mWz8tpg8jZBqEx4mJiu8\n//TCTnxZAgMBAAECggEAAsVaQGHrkE/G+v5/lLXuhhOsxvMxUMllfI2VNkWpEWlw\nzMJ/qoG9Ov/j0Ztq3NCDA3Vg+aOsWRteAhLORyT2fCOx1D+OTC34CFmY2JqgkBEX\nFW8Cjiyl5yPdnlJY3ue/2BrA/ILe2fucgkA0ug0N2Oit/c8CtFSGS65Vl1gtm+iV\nsN8mqsuUvr2r/n65gQJ9ni+8p6D492W3I8mtoMSnWKIakGFjnT0TJm37rW+2VWX2\nH1aYV1bFR2hY+kwYZ5a2/419d72+0VwtwK8eSA/zYaP1znuHPcfRwbQ8PXpaD6nW\n2T5SDfoiSmqPGOyXF/oLCh6XNCbVPjcy/ZEWKNv8oQKBgQDQGPusWJbb1OWx7HV+\nhyuoSpcNsOy0GL8QvEcu4rT0VU3RNXPpJZKTDcS56G9BA7kHHxPS9zPsKmY+uw9k\nCcWRrwWB1yYa+G45DcgT4qQLPN9Md4rxFHkbpL9u64WhyJzUZ2a5QQgz/jI5873v\nKrI0YM/FDpuRjDz8OkM23dH/cQKBgQC60+OZfHmnP8p9qniho6FP9PDjI8vV/ewj\ncHrF0x1/AvEhRNvnnzBDLiZMsZxppso7fY10NIlUeuFFNGT/01+r91fSjwKVK4in\nnraofnHNwcph0/21IHL26XqNu8Su/3IpUmZbRXT/N/nZeqNXlzhAEfxY0efBeK9/\nT1a7cSqnaQKBgHiZkfl+2ecLChdEP4+VjMKaf9JKb9Or58cuJl7QuihD67ZMMSG0\nSa75ssI/J4LZQnkTFK0V4LyEkf7W8AN8+kgE0788zfOheFeOWh7UIVf17j9lpFs1\nDz7rCpqg2jA5kFI0nr7MJpHjRn55eODLsL1UQfUlExmV2Z4fseZxRYuxAoGAWpTn\nUgCO/y8nnzwq1rv+N0UcEhTF/I/rkNc1P3r3XyBvBuFa+XcuMDRM73xhyLvMa4GZ\nNtFOED6vwB0CJyM1zKvU0cryxp5f2F1UVGdSCB/AXyQoa0w7UUmsWNHEL9C8ahqA\ndBo9+owKQI58abhw1meiAPJsulooRMKT27enpZkCgYEAmOaNpm1Pq8lQUjZeRjXB\nhzBH/syjlOf1gN2ILNhaZng7ElaalDi0MTVPTL1TpbnyFWw/7lBpgQ39/Ey7GPbu\nNIpBFitHI5Eco5BY1AOlw/ySYS75F1dLxdWIDsntwo1pJqxg2o0ciggywIru3/4O\nqwCQhsLaB8P5HmSvChl6t5g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "weather@iotcloudera.iam.gserviceaccount.com",
+  "client_id": "102771722909358814770",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/weather%40iotcloudera.iam.gserviceaccount.com"
+}
